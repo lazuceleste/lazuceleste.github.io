@@ -4,4 +4,4 @@
 
 ラズセレスト
 
-https://lazuceleste.f5.si
+https://lazuceleste.sytes.net
